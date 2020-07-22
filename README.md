@@ -1,7 +1,7 @@
 ### 🦄🌈 YOYO Team
 https://github.com/yoyofxteam
 
-[![yoyofx's github stats](https://github-readme-stats.vercel.app/api?username=yoyofx)](https://github.com/yoyofx/github-readme-stats)
+[![yoyofx's github stats](https://github-readme-stats.vercel.app/api?username=yoyofx&show_icons=true&theme=cobalt)](https://github.com/yoyofx/github-readme-stats)
 
 <!--
 **yoyofx/yoyofx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
