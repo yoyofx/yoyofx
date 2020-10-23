@@ -8,8 +8,7 @@
 - 作者博客: https://www.cnblogs.com/maxzhang1985
 
 <p align="center">
-  <img align="center" src="https://github.com/smallnest/smallnest/raw/master/developer.gif"/>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=yoyofx&title=MultipleLang,Star,Follower,Commit,Issue" style="max-width:100%;">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=yoyofx&title=Star,Follower,Commit,Issue" />
 </p>
 
 
