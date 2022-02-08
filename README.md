@@ -6,10 +6,11 @@
 - 作者博客: https://www.cnblogs.com/maxzhang1985
 
 
-[![Top Rank](https://github-readme-stats.vercel.app/api?username=yoyofx&show_icons=true&theme=chartreuse-dark)]()
+[![Top Rank](https://github-readme-stats.vercel.app/api?username=yoyofx&show_icons=true)]()
 
-[![Top Langs](https://github-profile-trophy.vercel.app/?username=yoyofx&title=Star,Follower,Commit,Issue&theme=chartreuse-dark)]()
+[![Top Langs](https://github-profile-trophy.vercel.app/?username=yoyofx&title=Star,Follower,Commit,Issue)]()
 
+[![Top Rank](https://github-readme-stats.vercel.app/api/top-langs/?username=yoyofx&langs_count=8&hide=html,css)]()
 
 
 
