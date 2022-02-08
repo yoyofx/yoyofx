@@ -6,8 +6,7 @@
 - 作者博客: https://www.cnblogs.com/maxzhang1985
 
 ### Kubelilin , An Cloud-Native application platform for Kubernetes 
-- https://github.com/yoyofxteam/sgr-platform-api
-- https://github.com/yoyofxteam/sgr-platform-ui
+- https://github.com/KubeLilin
 
 [![Top Rank](https://github-readme-stats.vercel.app/api?username=yoyofx&show_icons=true&theme=dark)]()
 
